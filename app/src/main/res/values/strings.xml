@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game Counter</string>
+    <string name="add_player">Add player</string>
+    <string name="hint_name">Name…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Player not saved because of it didn\'t contain a name</string>
+    <string name="hint_age">Age…</string>
+    <string name="new_player_activity_title">Add player</string>
+    <string name="player_activity_title">Players</string>
+
+</resources>
